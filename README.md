@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio from Andrew
 
 A typography-heavy & light-themed Gatsby Starter which uses the Headless CMS [Prismic](https://prismic.io/).
 
