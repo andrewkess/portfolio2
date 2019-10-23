@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-starter-prismic",
+  "name": "portfolio2",
   "description": "A typography-heavy & light-themed Gatsby Starter which uses the Headless CMS Prismic",
   "private": true,
   "license": "MIT",
@@ -80,12 +80,5 @@
     "prettier": "^1.18.2",
     "start-server-and-test": "^1.10.6"
   },
-  "keywords": [
-    "gatsby",
-    "starter",
-    "prismic",
-    "typography",
-    "minimal",
-    "gatsby-starter"
-  ]
+  "keywords": []
 }
